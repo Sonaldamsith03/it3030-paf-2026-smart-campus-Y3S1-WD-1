@@ -1,0 +1,6 @@
+$kind: collection
+description: REST API endpoints for the Smart Campus Operations Hub assignment.
+variables:
+  base_url: http://localhost:8080/api
+  token: ""
+  user_id: ""

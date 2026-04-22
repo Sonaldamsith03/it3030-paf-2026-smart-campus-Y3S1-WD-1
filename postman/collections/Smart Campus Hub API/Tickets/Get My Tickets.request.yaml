@@ -1,0 +1,8 @@
+$kind: http-request
+url: "{{base_url}}/tickets?userId={{user_id}}"
+method: GET
+headers:
+  Authorization: Bearer {{token}}
+queryParams:
+  userId: "{{user_id}}"
+order: 1000

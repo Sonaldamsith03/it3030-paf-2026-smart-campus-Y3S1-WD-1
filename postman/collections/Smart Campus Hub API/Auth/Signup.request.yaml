@@ -1,0 +1,13 @@
+$kind: http-request
+url: "{{base_url}}/auth/signup"
+method: POST
+body:
+  type: json
+  content: |-
+    {
+        "name": "Test Admin",
+        "email": "admin@campus.edu",
+        "password": "password123",
+        "role": "ADMIN"
+    }
+order: 1000

@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Operations Hub",
+  "description": "A comprehensive platform for university facility booking, maintenance ticketing, and campus notifications with role-based access control.",
+  "requestFramePermissions": []
+}

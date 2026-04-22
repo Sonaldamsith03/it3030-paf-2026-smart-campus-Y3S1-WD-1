@@ -1,0 +1,13 @@
+# Use this workspace to collaborate
+workspace:
+  id: 854aeacb-ab76-4ad0-8dd7-bba4b7971846
+
+localResources:
+  collections:
+    - ..\Postman_Collection.json
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  collections:
+    ..\postman\collections\Smart Campus Hub API: 4b3851e7-2695-47d3-b465-8753892c8e95
